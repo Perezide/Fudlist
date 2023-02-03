@@ -1,0 +1,377 @@
+@font-face {
+
+    font-family: 'bubbleboddyneue';
+    src: url(bubbleboddy_neue_font/bubbleboddyneue-regular_trial.ttf);
+}
+
+@font-face {
+
+    font-family: 'bubbleboddyneueb';
+    src: url(bubbleboddy_neue_font/BubbleboddyNeue-Bold_Trial.ttf);
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+
+
+}
+
+p,a{
+    font-family: 'bubbleboddyneue';
+    font-size: x-large !important;
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'bubbleboddyneueb';
+    font-size: xx-large !important;
+}
+
+.nav-wrapper{
+    background-color: #0e0d0d;
+    color:#ffc500;
+}
+
+nav .nav-wrapper div div{
+    height: 64px !important;
+}
+
+nav .nav-wrapper img{
+    width: 46%;
+}
+
+
+
+.nav-wrapper div ul li a{
+    color:#ffc500;
+}
+
+.btn{
+    text-transform: capitalize !important;
+    border-radius: 15rem !important;
+}
+
+
+.container .brand-logo img{
+    /* font-family: 'Signika Negative', sans-serif; */
+    position:relative;
+    
+}
+
+.fudlistmisn{
+    width: 100%;
+    background-color: #0e0d0d;
+    color: white;
+}
+
+.fudlistmisn #misnlogo{
+    width: 50%;
+}
+
+.fudlistmisn div a p{
+    background-color: #545454;
+
+}
+
+.fudlistmisn div a img{
+    width: 14.5%;
+    padding-top: 5px;
+    padding-right: 3px;
+
+}
+
+.fudlisthw{
+    background-color: #0e0d0d;
+    color: #ffc500;
+}
+
+.fudlistrc{
+    background-color:#0e0d0d;
+    color: #ffc500;
+}
+
+.fudlistrc div div .btn{
+    background-color:#0e0d0d;
+    color: #ffc500;
+}
+
+.fudlistrc img{
+    width: 100% !important;
+    border: 0.2px gainsboro solid;
+    border-radius: 5%;
+}
+
+.fudlistgrow img{
+    width: 100% !important;
+    border: 0.2px gainsboro solid;
+    border-radius: 5%;
+}
+
+.fudlistgrow{
+    color: #ffc500;   
+}
+
+footer{
+    background-color:#0e0d0d;
+    color: #ffc500;
+}
+
+footer i{
+    color: white;
+    margin-top: 2%;
+    letter-spacing: 15px;
+}
+
+footer a{
+    color: #ffc500;
+}
+
+footer div div {
+    color: #ffc500;
+}
+
+footer .getapp{
+    margin-top: 7%;
+
+}
+
+
+footer .getapp a p{
+    background-color: #545454;
+
+}
+
+footer .getapp a img{
+    width: 14.5%;
+    padding-top: 5px;
+    padding-right: 3px;
+
+}
+
+
+
+
+
+@media only screen and (min-width: 564px){
+
+    nav .nav-wrapper img{
+        width: 43%;
+    }
+    
+
+}
+
+@media only screen and (min-width: 740px){
+
+    nav .nav-wrapper img{
+        width: 40%;
+    }
+    
+
+}
+
+@media only screen and (min-width: 790px){
+
+    nav .nav-wrapper img{
+        width: 37%;
+    }
+    
+
+}
+
+@media only screen and (min-width: 850px){
+
+    nav .nav-wrapper img{
+        width: 33%;
+    }
+    
+
+}
+
+@media only screen and (min-width: 945px){
+
+    nav .nav-wrapper img{
+        width: 30%;
+    }
+    
+
+}
+
+
+@media only screen and (min-width: 993px){
+    @font-face {
+
+        font-family: 'bubbleboddyneue';
+        src: url(bubbleboddy_neue_font/bubbleboddyneue-regular_trial.ttf);
+    }
+    
+    @font-face {
+    
+        font-family: 'bubbleboddyneueb';
+        src: url(bubbleboddy_neue_font/BubbleboddyNeue-Bold_Trial.ttf);
+    }
+    
+    
+    *{
+        margin: 0;
+        padding: 0;
+        text-decoration: none;
+
+    
+    }
+    
+    p,a{
+        font-family: 'bubbleboddyneue';
+        font-size: x-large !important;
+    }
+    h1,h2,h3,h4,h5,h6 {
+        font-family: 'bubbleboddyneueb';
+        font-size: xx-large !important;
+    }
+
+    .nav-wrapper{
+        background-color: #0e0d0d;
+        color:#ffc500;
+    }
+
+    nav div div .brand-logo{
+        height: 10% !important;
+    }
+    
+    nav .nav-wrapper img{
+        width: 30%;
+        position: absolute;
+    }
+
+    .nav-wrapper div ul li a{
+        color:#ffc500;
+        background-color: #545454;
+    }
+    
+    .btn{
+        text-transform: capitalize !important;
+        border-radius: 15rem !important;
+    }
+    
+    
+    .container .brand-logo img{
+        /* font-family: 'Signika Negative', sans-serif; */
+        position:relative;
+        
+    }
+
+    .fudlistmisn{
+        width: 100%;
+        background-color: #0e0d0d;
+        color: white;
+    }
+
+    .fudlistmisn #misnlogo{
+        width: 50%;
+    }
+
+    .fudlistmisn div a p{
+        background-color: #545454;
+
+    }
+
+    .fudlistmisn div a img{
+        width: 14.5%;
+        padding-top: 5px;
+        padding-right: 3px;
+
+    }
+
+    
+    .fudlisthw{
+        background-color: #0e0d0d;
+        color: #ffc500;
+    }
+    
+    .fudlistrc{
+        background-color: #0e0d0d;
+        color: #ffc500;
+    }
+    
+    .fudlistrc div div .btn{
+        background-color:#0e0d0d;
+        color: #ffc500;
+    }
+    
+    .fudlistrc img{
+        width: 100% !important;
+        border: 0.2px gainsboro solid;
+        border-radius: 5%;
+    }
+
+    .fudlistgrow img{
+        width: 60% !important;
+        border: 0.2px gainsboro solid;
+        border-radius: 5%;
+    }
+
+    .fudlistgrow{
+        color: #ffc500;   
+    }
+
+    
+    footer{
+        background-color:#0e0d0d;
+        color: #ffc500;
+    }
+
+    footer i{
+        color: white;
+        margin-top: 2%;
+        letter-spacing: 15px;
+    }
+
+    footer a{
+        color: #ffc500;
+    }
+
+    footer div div {
+        color: #ffc500;
+    }
+
+    footer .getapp a p{
+        background-color: #545454;
+
+    }
+
+    footer .getapp a img{
+        width: 14.5%;
+        padding-top: 5px;
+        padding-right: 3px;
+
+    }
+
+}
+
+@media only screen and (min-width: 1220px){
+
+    nav .nav-wrapper img{
+        width: 26%;
+    }
+    
+
+}
+
+@media only screen and (min-width: 1260px){
+
+    nav .nav-wrapper img{
+        width: 23%;
+    }
+    
+
+}
+
+@media only screen and (min-width: 1300px){
+
+    nav .nav-wrapper img{
+        width: 23%;
+    }
+    
+
+}
